@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
+    <sys_data_source action="DELETE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>attachment://sys_data_source:81da225bdb1a0010c0930d53ca961931/</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <discard_arrays>true</discard_arrays>
+        <expand_node_children>false</expand_node_children>
+        <file_path/>
+        <file_retrieval_method>Attachment</file_retrieval_method>
+        <format>CSV</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>0</header_row>
+        <import_set_table_label> NeedIt [x_58872_needit_needit]</import_set_table_label>
+        <import_set_table_name>NeedIt [x_58872_needit_needit]</import_set_table_name>
+        <instance_name/>
+        <jdbc_password/>
+        <jdbc_server/>
+        <jdbc_user_name/>
+        <jpath_root_node/>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server/>
+        <name>Historic NeedIt Data</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid>orcl</oracle_sid>
+        <properties/>
+        <query>All Rows from Table</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server/>
+        <scp_user_name/>
+        <sheet_number>0</sheet_number>
+        <sql_statement/>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 22:08:21</sys_created_on>
+        <sys_id>81da225bdb1a0010c0930d53ca961931</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Historic NeedIt Data</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_data_source_81da225bdb1a0010c0930d53ca961931</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 23:38:58</sys_updated_on>
+        <table_name/>
+        <type>File</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node/>
+        <zipped>false</zipped>
+    </sys_data_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>85449293db971b040e785d00cf9619c8</instance_id>
+        <instance_name>dev65959</instance_name>
+        <name>sys_data_source_81da225bdb1a0010c0930d53ca961931</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category/><connection_timeout>0</connection_timeout><connection_url>attachment://sys_data_source:81da225bdb1a0010c0930d53ca961931/</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><discard_arrays>true</discard_arrays><expand_node_children>false</expand_node_children><file_path/><file_retrieval_method>Attachment</file_retrieval_method><format>CSV</format><glide_keystore>false</glide_keystore><header_row>0</header_row><import_set_table_label> NeedIt [x_58872_needit_needit]</import_set_table_label><import_set_table_name>NeedIt [x_58872_needit_needit]</import_set_table_name><instance_name/><jdbc_password/><jdbc_server/><jdbc_user_name/><jpath_root_node/><last_run_database_field/><last_run_datetime/><ldap_target/><maximum_rows/><mid_server/><name>Historic NeedIt Data</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>All Rows from Table</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>0</sheet_number><sql_statement/><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-17 22:08:21</sys_created_on><sys_id>81da225bdb1a0010c0930d53ca961931</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Historic NeedIt Data</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_data_source_81da225bdb1a0010c0930d53ca961931</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-17 23:38:58</sys_updated_on><table_name/><type>File</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>false</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+        <payload_hash>-373966778</payload_hash>
+        <record_name>Historic NeedIt Data</record_name>
+        <reverted_from/>
+        <source>14d20db7dbc20010c0930d53ca961904</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 23:38:58</sys_created_on>
+        <sys_id>8a0007dbdb5a0010c0930d53ca9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fb5dfc5b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 23:38:58</sys_updated_on>
+        <type>Data Source</type>
+        <update_guid>060007db275a00106de24216d574b0f3</update_guid>
+        <update_guid_history>060007db275a00106de24216d574b0f3:-373966778,ae4b265b9b1a0010138c3efea3aa2fbe:-1185598374</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 17:05:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_source">sys_data_source</sys_db_object>
+        <sys_id>cccf815bffd6425388e8d39223961b21</sys_id>
+        <sys_metadata>81da225bdb1a0010c0930d53ca961931</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Historic NeedIt Data</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_data_source_81da225bdb1a0010c0930d53ca961931</sys_update_name>
+        <sys_update_version display_value="sys_data_source_81da225bdb1a0010c0930d53ca961931">8a0007dbdb5a0010c0930d53ca9619f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 17:05:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
